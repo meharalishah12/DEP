@@ -1,0 +1,6 @@
+Explain each parameter in detail:
+•<num-red>: Number of red marbles.
+•<num-blue>: Number of blue marbles.
+•<version>: 'standard' (default) or 'misere'.
+•<first-player>: 'computer' (default) or 'human'.
+•<depth>: Search depth for AI (optional).
